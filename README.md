@@ -55,7 +55,7 @@ JP1 determines the connection of the ROM's pin 1, while JP2 determines the conne
 ROM Type       | Jumper 1 Position      | Jumper 2 Position
 -------------- | ---------------------- | ----------------------------
 27C128         | JP1 - 2-3              | JP2 - 1-2 (jumper installed)
-27C256, 29C256 | JP1 pin 1 to JP2 pin 1 | JP2 pin 2 to JP2 pin 2
+27C256, 29C256 | JP1 pin 1 to JP2 pin 1 | JP1 pin 2 to JP2 pin 2
 28C256, NVRAM  | JP1 - 1-2              | JP2 - 1-2 (jumper installed)
 
 ![Radio-86RK ROM Cartridge Jumpers](images/jumpers.png)
